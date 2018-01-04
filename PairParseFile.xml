@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ParseFile>
+  <BrokerID>66666</BrokerID>
+  <BrokerName>CITIC</BrokerName>
+  <ProductName>Product6_citic</ProductName>
+  
+  <Pair>
+      <RollingMonth>cu1803</RollingMonth>
+      <InitialMonth>cu1802</InitialMonth>
+  </Pair>
+  
+</ParseFile>
